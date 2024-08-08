@@ -1,5 +1,5 @@
 ---
-title: EC2 Instance Storage
+title: 3.EC2 Instance Storage
 ---
 &nbsp;
 

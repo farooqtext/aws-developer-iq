@@ -1,5 +1,5 @@
 ---
-title: EC2 Fundamentals & Security Groups
+title: 2.EC2 Fundamentals & Security Groups
 ---
 &nbsp;
 

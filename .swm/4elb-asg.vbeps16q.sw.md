@@ -1,5 +1,5 @@
 ---
-title: ELB & ASG
+title: 4.ELB & ASG
 ---
 ![](https://firebasestorage.googleapis.com/v0/b/swimmio.appspot.com/o/repositories%2FZ2l0aHViJTNBJTNBYXdzLWRldmVsb3Blci1pcSUzQSUzQWZhcm9vcXRleHQ%3D%2Fed756472-3cf7-40ed-8b32-7687c20d56e3.png?alt=media&token=37cde05c-8ce1-4bf4-b383-35eb13a4b008)
 
